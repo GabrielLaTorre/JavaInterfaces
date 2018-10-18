@@ -1,4 +1,4 @@
-package weekepedia;
+package ProyectoInerfaces;
 
 import javax.swing.*;
 import javax.swing.event.*;

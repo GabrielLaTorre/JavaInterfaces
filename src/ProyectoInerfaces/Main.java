@@ -1,4 +1,4 @@
-package weekepedia;
+package ProyectoInerfaces;
 //Pequeño proyecto para practicar las interfaces JRadioButton y JButton, junto con ActionListener y ChangeListener en Java
 public class Main {
 
